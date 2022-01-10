@@ -11,7 +11,7 @@
 
 - Hall of Fame **Kaskus** Bug Bounty [link](https://bantuan.kaskus.co.id/hc/id/articles/360026355992-Hall-of-Fame)
 
-## <img src="https://media2.giphy.com/media/VdoIFLsMIlwzfKD520/giphy_s.gif?cid=790b76119db2a048cc1630446c164a134cc93967899726fe&rid=giphy_s.gif&ct=s" width="25px">       Skills
+## 🛠️ Skills
 - Currently Focusing with **C#** and **Unity Engine**
 
 ## 📱 Contacts
