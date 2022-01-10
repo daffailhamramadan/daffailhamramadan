@@ -15,7 +15,7 @@
 - Currently Focusing with **C#** and **Unity Engine**
 
 ## 📖 Blogs
-- [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daffailhamr)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daffailhamr)
 
 ## 📱 Contacts
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:daffailhamramadan127@gmail.com) 
