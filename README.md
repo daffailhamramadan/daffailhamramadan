@@ -1,6 +1,6 @@
 # Hi I'm Daffa Ilham Ramadan 
 
-## 👩‍💻 About Me
+## <img src="https://media2.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=790b761107d855b8fedbe95eb7865e585ac6864f9dde3703&rid=giphy.gif&ct=s" width="25px">  About Me
 - Hello I'm **Daffa Ilham Ramadan** a **Game Developer** and **Cyber Security Enthusiast (Currently focusing more on Game Programming)** From Indonesian
 
 
