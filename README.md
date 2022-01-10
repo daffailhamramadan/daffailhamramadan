@@ -11,7 +11,7 @@
 - Hall of Fame **Kaskus** Bug Bounty [link](https://bantuan.kaskus.co.id/hc/id/articles/360026355992-Hall-of-Fame)
 
 ## 🏗️ Projects
-- Game : [itch.io](https://daffa-ilham-ramadan.itch.io/) and some in my repo
+- Games : [itch.io](https://daffa-ilham-ramadan.itch.io/) and some in my repo
 
 ## 🛠️ Skills
 - Currently Focusing with **C#** and **Unity Engine**
