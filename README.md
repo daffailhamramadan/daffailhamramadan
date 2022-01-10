@@ -15,5 +15,6 @@
 - Currently Focusing with **C#** and **Unity Engine**
 
 ## 📱 Contacts
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/daffailhamramadan)
 
 
