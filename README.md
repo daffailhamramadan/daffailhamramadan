@@ -1,6 +1,8 @@
 # Hi I'm Daffa Ilham Ramadan
 
 ## 👨‍💻 About Me
+Hello I'm Daffa Ilham Ramadan a Game Developer and Cyber Security Enthusiast (Currently focusing more on Game Programming)
+
 
 ## 🥇 Achievements
 - Hall of Fame Bukalapak [BukaBounty](https://bukalapak.github.io/bukabounty/)
