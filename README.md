@@ -11,6 +11,6 @@
 
 - Hall of Fame **Kaskus** Bug Bounty [link](https://bantuan.kaskus.co.id/hc/id/articles/360026355992-Hall-of-Fame)
 
-## 🔗 Contacts
+## 📫 Contacts
 
 
