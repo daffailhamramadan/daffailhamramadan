@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 ## 🥇 Achievements
-- Bukalapak Bug Bounty [https://bukalapak.github.io/bukabounty]
+- Hall of Fame Bukalapak [BukaBounty](https://bukalapak.github.io/bukabounty/)
 
 ## 🔗 Contacts
 
