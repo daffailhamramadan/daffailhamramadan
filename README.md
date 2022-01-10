@@ -1,7 +1,7 @@
 # Hi I'm Daffa Ilham Ramadan
 
 ## 👨‍💻 About Me
-Hello I'm Daffa Ilham Ramadan a Game Developer and Cyber Security Enthusiast (Currently focusing more on Game Programming)
+- Hello I'm Daffa Ilham Ramadan a Game Developer and Cyber Security Enthusiast (Currently focusing more on Game Programming)
 
 
 ## 🥇 Achievements
