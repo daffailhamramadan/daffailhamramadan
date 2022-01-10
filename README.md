@@ -10,8 +10,8 @@
 
 - Hall of Fame **Kaskus** Bug Bounty [link](https://bantuan.kaskus.co.id/hc/id/articles/360026355992-Hall-of-Fame)
 
-## Projects
-- Game <img src="https://media4.giphy.com/media/9pFt0oynQoLxC/giphy.webp?cid=790b7611qir90ek8101cti86ge5y9komom6m1cennv0nr45d&rid=giphy.webp&ct=s" width="25px"> : [itch.io](https://daffa-ilham-ramadan.itch.io/) and some in my repo
+## 🏗️ Projects
+- Game : [itch.io](https://daffa-ilham-ramadan.itch.io/) and some in my repo
 
 ## 🛠️ Skills
 - Currently Focusing with **C#** and **Unity Engine**
